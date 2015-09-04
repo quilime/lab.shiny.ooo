@@ -1,0 +1,5 @@
+name: lab.shiny.ooo
+tagline: 
+markdown: redcarpet
+pygments: true
+permalink: /:title.html

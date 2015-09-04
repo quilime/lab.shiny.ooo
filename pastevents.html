@@ -1,0 +1,19 @@
+---
+layout: default
+title: Past Events
+---
+
+<h2>Past Events</h2>
+
+<ul class="posts archive">
+{% for post in site.posts reversed%}
+  	{% if post.upcoming == false && post.layout == "event" %}
+    <li>
+		<a href="{{ post.url }}">{{ post.title }}</a>
+		<br />
+		<span>{{ post.date | date: "%Y-%m-%d" }}</span>
+  		<!-- <p>{{ post.excerpt }}</p> -->
+    </li>  	
+	{% endif %}
+{% endfor %}
+</ul>

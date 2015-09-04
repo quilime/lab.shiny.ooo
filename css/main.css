@@ -1,0 +1,125 @@
+html, body {
+}
+
+button {
+  font-size:80%;
+  padding:0.5em;
+}
+
+.site {
+  max-width:800px;
+  margin-left:2em;
+  margin-right:1em;
+}
+
+.header pre {
+  background:none !important;
+  border:0;
+}
+
+.instructor {
+  margin: 1em 0;
+  color:
+}
+
+.site .header h1.title {
+  display: inline-block;
+  margin-bottom: 2em;
+}
+
+.site .header a.extra {
+  color: #aaa;
+  margin-left: 1em;
+}
+
+.site .header a.extra:hover {
+  color: #000;
+}
+
+.site .meta {
+  color: #aaa;
+}
+
+.site .footer {
+  font-size: 80%;
+  color: #666;
+  border-top: 4px solid #eee;
+  margin-top: 2em;
+  overflow: hidden;
+}
+
+.site .footer .contact {
+  float: left;
+  margin-right: 3em;
+}
+
+.site .footer .contact a {
+  color: #8085C1;
+}
+
+.site .footer .rss {
+  margin-top: 1.1em;
+  margin-right: -.2em;
+  float: right;
+}
+
+.site .footer .rss img {
+  border: 0;
+}
+
+.posts {
+  list-style-type:none;
+margin:0;
+padding:0;
+}
+.posts li {
+  margin-bottom:1em;
+}
+
+/* standard */
+.post pre {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .4em;
+}
+
+.post ul, .post ol {
+  margin-left: 1.35em;
+}
+
+.post code {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .2em;
+}
+
+.post pre code {
+  border: none;
+}
+
+/* terminal */
+.post pre.terminal {
+  border: 1px solid #000;
+  background-color: #333;
+  color: #FFF;
+}
+
+.post pre.terminal code {
+  background-color: #333;
+}
+
+
+.isupcoming {
+  margin-bottom:20px;
+  color:#999;
+}
+
+.classinfo {
+  font-size:90%;
+  font-weight:bold;
+  color:#259;
+}
+.instructor {
+  color:#259;
+  font-weight:bold;
+}
