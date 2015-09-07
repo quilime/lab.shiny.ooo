@@ -1,5 +1,5 @@
 name: lab.shiny.ooo
 tagline:
 markdown: redcarpet
-highlighter: true
+highlighter: pygments
 permalink: /:title.html
