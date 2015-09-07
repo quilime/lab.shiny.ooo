@@ -1,0 +1,31 @@
+---
+layout: default
+title: Events
+---
+
+<h2>Upcoming Events</h2>
+
+{% assign hasevents = true %}
+
+<ul class="posts">
+  {% for post in site.posts %}
+      {% if post.upcoming %}
+      {% assign hasevents = false %}      
+      <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <br />
+      <span>{{ post.date | date: "%Y-%m-%d" }}</span>
+        <!-- <p>{{ post.excerpt }}</p> -->
+      </li>
+    {% endif %}
+  {% endfor %}
+  
+  {% if !hasevents %}
+  No upcoming events scheduled!
+  {% endif %}
+  
+</ul>
+
+<br />
+
+<strong><a href="{{site.url}}/pastevents.html">Past events &raquo;</a></strong>
