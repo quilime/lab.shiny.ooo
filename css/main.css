@@ -108,7 +108,6 @@ padding:0;
   background-color: #333;
 }
 
-
 .isupcoming {
   margin-bottom:20px;
   color:#999;
@@ -122,4 +121,24 @@ padding:0;
 .instructor {
   color:#259;
   font-weight:bold;
+}
+
+@keyframes ascii_in {
+  from {
+    transform: scale(0.5);
+    opacity: 0.0;
+  }
+  to {
+    transform: scale(1.0);
+    opacity: 1.0;
+  }
+}
+
+.lab-ascii {
+  width: 40em;
+  overflow: visible;
+  transform-origin: 0 80%;
+  animation-name: ascii_in;
+  animation-duration: .6s;
+  animation-timing-function: cubic-bezier(.33,1.67,.72,1.01);
 }
