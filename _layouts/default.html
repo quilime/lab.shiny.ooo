@@ -1,52 +1,46 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width">
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/marx.css">
+  <!-- syntax highlighting CSS -->
+  <link rel="stylesheet" href="/css/syntax.css">
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/css/marx.css">
 
-    </head>
-    <body>
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/css/main.css">
+</head>
 
-        <div class="container">
-          <div class="site">
-
-            <div class="header"><a href="/"><pre class="lab-ascii">
+<body>
+  <div class="container">
+    <div class="header"><a href="/"><pre class="lab-ascii">
     __      __           __    _
    / /___ _/ /_    _____/ /_  (_)___  __  __ ____  ____  ____
   / / __ `/ __ \  / ___/ __ \/ / __ \/ / / // __ \/ __ \/ __ \
  / / /_/ / /_/ / (__  ) / / / / / / / /_/ // /_/ / /_/ / /_/ /
 /_/\__,_/_.___(_)____/_/ /_/_/_/ /_/\__, (_)____/\____/\____/
                                    /____/
-</pre></a></h1>
+    </pre></a></div>
 
-              <a class="extra" href="/about.html">about</a>
-              <a class="extra" href="/blog.html">blog</a>
-              <a class="extra" href="/events.html">events</a>
+    <div class="nav">
+      <a class="extra" href="/about.html">about</a>
+      <a class="extra" href="/blog.html">blog</a>
+      <a class="extra" href="/events.html">events</a>
+    </div>
 
-              <div>
-                {{ site.tagline }}
-              </div>
+    <div>{{ site.tagline }}</div>
 
-              <br/>
-              <br/>
+    <br/>
+    <br/>
 
-            </div>
+    <div class="content">{{ content }}</div>
+  </div> <!-- /container -->
+</body>
 
-            {{ content }}
-
-          </div>
-        </div> <!-- /container -->
-
-    </body>
 </html>
