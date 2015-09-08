@@ -6,6 +6,7 @@ html, body {
 .container {
   width: 100%;
   max-width: 800px;
+  min-width: 700px;
   padding: 0px 50px;
   margin-top: 80px;
   margin-left: auto;
