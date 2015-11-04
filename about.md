@@ -45,7 +45,7 @@ Alum
 
 Questions? Have a workshop or event proposal? Just want say what's up? Contact us:
 
-<form action="https://getsimpleform.com/messages?form_api_token=20ef1a16b2286aed9cd04bf4089ccfc1" method="post">
+<form action="https://getsimpleform.com/messages?form_api_token=a06352945bf551c681b6f94e904fa45b" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='http://lab.shiny.ooo/about-submitted.html' />
   <!-- all your input fields here.... -->
