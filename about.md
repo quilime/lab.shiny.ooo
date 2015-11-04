@@ -47,7 +47,7 @@ Questions? Have a workshop or event proposal? Just want say what's up? Contact u
 
 <form action="https://getsimpleform.com/messages?form_api_token=20ef1a16b2286aed9cd04bf4089ccfc1" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='http://localhost:4000/about-submitted.html' />
+  <input type='hidden' name='redirect_to' value='/about-submitted.html' />
   <!-- all your input fields here.... -->
 
   Name<br /><input name='name' type='text' /><br /><br />
