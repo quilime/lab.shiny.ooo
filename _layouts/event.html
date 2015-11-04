@@ -58,11 +58,13 @@ instructor: {{ page.instructor }}
 </div>
 <br />
 
+{% if page.registration_url %}
 <div>
     <a href="{{page.registration_url}}" style="cursor:pointer;">
         <button id="register" style="cursor:pointer">Register</button>
     </a>
 </div>
+{% endif %}
 
 {% else %}
 
