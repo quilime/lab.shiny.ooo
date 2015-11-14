@@ -11,6 +11,8 @@ ShinyLab is a shared studio/lab on Market St in San Francisco, CA founded in 201
 
 We're interested in creative hardware and software, graphics, creative gaming/media/computing history, computational literacy, education, and sustainable creative studio practice.
 
+Subscribe to our [event calendar](https://calendar.google.com/calendar/embed?src=gip0jbfv4sf08fb1rq14moicnc%40group.calendar.google.com&ctz=America/Los_Angeles).
+
 Current Members
 
   - Gabriel Dunne (founder)
