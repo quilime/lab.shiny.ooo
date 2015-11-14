@@ -35,3 +35,4 @@ Pay what you will!
 All ages welcome, bring friends, feel free to repost!
 
 
+Subscribe to our [calendar](https://calendar.google.com/calendar/embed?src=gip0jbfv4sf08fb1rq14moicnc%40group.calendar.google.com&ctz=America/Los_Angeles).
