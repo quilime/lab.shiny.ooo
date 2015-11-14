@@ -19,14 +19,14 @@ Current Members
 
   - Gabriel Dunne (founder)
   - Ryan Alexander (founder)
-  - Michael Chang / Minmax LLC (founder)
+  - Michael Chang (founder) / Minmax LLC 
   - Kristen Neidlinger  
-  - Matt Hornyak / Outofhere LLC 
-  - Lara Grant
-  - Jamie Kosoy // Arbitrary, LLC
+  - Matt Hornyak / Outerfere LLC 
+  - Jamie Kosoy / Arbitrary LLC
 
 Alum
 
+  - Lara Grant
   - Cullen Miller  
   - Eve Weinberg      
   - Sarah Nahm
