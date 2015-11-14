@@ -9,7 +9,7 @@ location: 1242 Market St, Floor 2<br />San Francisco, CA 94102
 fee_list: [["Everyone", 	"$$$ Pay what you will! $$$"]]
 ---
 
-Join us for another silent film night at 1242 Market St in SF, where we show classic films on real-deal 8mm and 16mm projectors with live electronic and acoustic music accompaniment.
+Join us for another silent film night at 1242 Market St in SF, where we screen classic films with 8mm and 16mm film projectors accompanied by live acoustic+electronic music.
 
 This week, we'll be screening an 8mm print of the Murnau comedy "The Last Laugh", 1925.
 
