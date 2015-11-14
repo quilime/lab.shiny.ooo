@@ -13,6 +13,8 @@ We're interested in creative hardware and software, graphics, creative gaming/me
 
 Subscribe to our [event calendar](https://calendar.google.com/calendar/embed?src=gip0jbfv4sf08fb1rq14moicnc%40group.calendar.google.com&ctz=America/Los_Angeles).
 
+(Calendar ID: gip0jbfv4sf08fb1rq14moicnc@group.calendar.google.com)
+
 Current Members
 
   - Gabriel Dunne (founder)
