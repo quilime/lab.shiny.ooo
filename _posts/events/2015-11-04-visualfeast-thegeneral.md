@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Visual Feast - The General
-upcoming: true
+upcoming: false
 class_date: 2015-11-04
 start: 7:00pm
 end: 10:00pm
