@@ -2,7 +2,7 @@
 layout: event
 title: Visual Feast - The Last Laugh
 upcoming: true
-class_date: 2015-11-18
+class_date: 2015-11-19
 start: 7:00pm
 end: 10:00pm
 location: 1242 Market St, Floor 2<br />San Francisco, CA 94102
