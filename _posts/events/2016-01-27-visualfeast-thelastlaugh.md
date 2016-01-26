@@ -2,16 +2,13 @@
 layout: event
 title: Visual Feast - The Last Laugh
 upcoming: true
-class_date: 2015-12-03
+class_date: 2016-01-27
 start: 7:00pm
 end: 10:00pm
 location: 1242 Market St, Floor 2<br />San Francisco, CA 94102
-fee_list: [["Everyone", 	"Donation"]]
 ---
 
-Join us for another silent film night at 1242 Market St in SF, where we screen classic films with 8mm and 16mm film projectors accompanied by live acoustic+electronic music.
-
-This week, we'll be screening an 8mm print of the Murnau comedy "The Last Laugh", 1925.
+8mm Screening of Murnau's "The Last Laugh", 1925, with live musical accompaniment.
 
 ![](https://upload.wikimedia.org/wikipedia/en/0/0c/Lastlaughposter.jpg)
 
