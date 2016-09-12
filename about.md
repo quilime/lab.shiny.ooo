@@ -22,10 +22,11 @@ Current Members
   - Michael Chang (founder) / Minmax LLC 
   - Kristen Neidlinger  
   - Matt Hornyak / Outerfere LLC 
-  - Jamie Kosoy / Arbitrary LLC
+  - Pierre Forcioli-Conti
 
 Alum
 
+  - Jamie Kosoy / Arbitrary LLC
   - Lara Grant
   - Cullen Miller  
   - Eve Weinberg      
